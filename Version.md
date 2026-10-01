@@ -32,3 +32,21 @@ Strict Append Pattern: All updates are permanently appended to the bottom.
   - `Version.md`
   - `.github/workflows/snake.yml`
 - **Verification**: Verified syntax, image endpoints, and local git integrity.
+
+### [2026-09-27 12:00:00 IST] - Codeberg Profile Integration (.profile)
+- **Author**: mrdarksidetm
+- **Status**: Completed & Prepared
+- **Architectural Implementation**:
+  - Configured special profile repository for Codeberg (`mrdarksidetm/.profile`).
+  - Set up remote `codeberg` (`git@codeberg.org:mrdarksidetm/.profile.git`).
+  - Verified SSH ED25519 commit signing for verified commit badge display on Codeberg profile.
+- **Files Modified**:
+  - `Version.md` (Appended)
+- **Verification**: Verified remote and SSH signing.
+
+## [2026-10-01 12:47:00 IST] - README Documentation GitHub Links Migration
+- **Action**: Updated README.md documentation links, badges, and author references to point to active GitHub account `junksidetm` while preserving GitLab and Codeberg mappings.
+- **Files Modified**:
+  - `README.md`
+  - `Version.md`
+- **Status**: 100% (Completed & Synced)
