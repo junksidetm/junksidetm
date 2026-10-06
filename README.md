@@ -1,4 +1,4 @@
-# Hi there, I'm Abhijeet Yadav (MrDarksideTM) 👋
+# Hi there, I'm Abhijeet Yadav (junksidetm) 👋
 
 > **Systems Architect & Android Engineer** building uncompromising, offline-first native applications, Material 3 Expressive interfaces, and privacy-centric developer toolkits.
 
@@ -43,12 +43,12 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/junksidetm">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mrdarksidetm&show_icons=true&theme=radical&bg_color=121212&title_color=269bff&text_color=ffffff&icon_color=269bff&border_color=262626&hide_border=false" alt="MrDarksideTM GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=junksidetm&show_icons=true&theme=radical&bg_color=121212&title_color=269bff&text_color=ffffff&icon_color=269bff&border_color=262626&hide_border=false" alt="junksidetm GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/junksidetm">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdarksidetm&layout=compact&theme=radical&bg_color=121212&title_color=269bff&text_color=ffffff&border_color=262626&hide_border=false" alt="Top Languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junksidetm&layout=compact&theme=radical&bg_color=121212&title_color=269bff&text_color=ffffff&border_color=262626&hide_border=false" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/junksidetm">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdarksidetm&theme=radical&background=121212&border=262626&stroke=262626&ring=269bff&fire=269bff&currStreakLabel=269bff" alt="Contribution Streak" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=junksidetm&theme=radical&background=121212&border=262626&stroke=262626&ring=269bff&fire=269bff&currStreakLabel=269bff" alt="Contribution Streak" />
   </a>
 </p>
 
@@ -104,13 +104,13 @@
 ### 🐍 Contribution Graph Matrix
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrdarksidetm/mrdarksidetm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrdarksidetm/mrdarksidetm/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/mrdarksidetm/mrdarksidetm/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junksidetm/junksidetm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junksidetm/junksidetm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/junksidetm/junksidetm/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 ---
 
 <p align="center">
-  <i>Crafted with precision by <a href="https://github.com/junksidetm">@mrdarksidetm</a> • Licensed under Apache 2.0 & MIT</i>
+  <i>Crafted with precision by <a href="https://github.com/junksidetm">@junksidetm</a> • Licensed under Apache 2.0 & MIT</i>
 </p>
