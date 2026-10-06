@@ -1,16 +1,8 @@
-# Hi there, I'm Abhijeet Yadav (junksidetm) 👋
-
-> **Systems Architect & Android Engineer** building uncompromising, offline-first native applications, Material 3 Expressive interfaces, and privacy-centric developer toolkits.
+### 💻 Tech Stack & Engineering Toolkit
 
 <p align="left">
-  <a href="https://junksidetm.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Atelier%20Hub-269bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
-  </a>
-  <a href="https://github.com/junksidetm">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  <a href="mailto:junksidestudio@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,react,nextjs,ts,js,tailwind,powershell,githubactions,git&perline=12" alt="Engineering Skills Grid" />
   </a>
 </p>
 
@@ -24,16 +16,6 @@
 - 🛠️ **Privileged Systems:** Android rootless binder IPC via Shizuku & Shevery ([`Battery Mode Checker`](https://github.com/junksidetm/Android-Battery-Unrestricted-Checker)).
 - 💬 **Ask Me About:** Jetpack Compose, Kotlin Coroutines & Flow, Room SQLite, Flutter/Isar, Next.js, and Windows 11 PowerShell debloating.
 - 🌐 **Master Atelier Hub:** Explore all active applications at [junksidetm.github.io](https://junksidetm.github.io/).
-
----
-
-### 💻 Tech Stack & Engineering Toolkit
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,react,nextjs,ts,js,tailwind,powershell,githubactions,git&perline=12" alt="Engineering Skills Grid" />
-  </a>
-</p>
 
 ---
 
