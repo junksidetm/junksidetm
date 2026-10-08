@@ -1,3 +1,16 @@
+# Hi there, I'm Abhijeet Yadav (MrDarksideTM) 👋
+
+> **Systems Architect & Android Engineer** building uncompromising, offline-first native applications, Material 3 Expressive interfaces, and privacy-centric developer toolkits.
+
+<p align="left">
+  <a href="https://github.com/junksidetm"><img src="https://img.shields.io/badge/GitHub-Main-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Main" /></a>
+  <a href="https://codeberg.org/mrdarksidetm"><img src="https://img.shields.io/badge/Codeberg-Mirror-2185d0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg Mirror" /></a>
+  <a href="https://gitlab.com/mrdarksidetm"><img src="https://img.shields.io/badge/GitLab-Mirror-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Mirror" /></a>
+  <a href="https://junksidetm.github.io/"><img src="https://img.shields.io/badge/Portfolio-Atelier%20Hub-269bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" /></a>
+</p>
+
+---
+
 ### 💻 Tech Stack & Engineering Toolkit
 
 <p align="left">
@@ -90,6 +103,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junksidetm/junksidetm/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/junksidetm/junksidetm/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
+
+---
+
+## 🌐 Source Mirrors
+
+- **Main (GitHub)**: [github.com/junksidetm/junksidetm](https://github.com/junksidetm/junksidetm)
+- **Mirror (Codeberg)**: [codeberg.org/mrdarksidetm/.profile](https://codeberg.org/mrdarksidetm/.profile)
+- **Mirror (GitLab)**: [gitlab.com/mrdarksidetm/mrdarksidetm](https://gitlab.com/mrdarksidetm/mrdarksidetm)
 
 ---
 
