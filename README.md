@@ -1,6 +1,4 @@
-# Hi there, I'm Abhijeet Yadav (MrDarksideTM) 👋
-
-> **Systems Architect & Android Engineer** building uncompromising, offline-first native applications, Material 3 Expressive interfaces, and privacy-centric developer toolkits.
+## Platforms
 
 <p align="left">
   <a href="https://github.com/junksidetm"><img src="https://img.shields.io/badge/GitHub-Main-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Main" /></a>
