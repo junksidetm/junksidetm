@@ -1,10 +1,26 @@
-## Platforms
+<div align="center">
+<a href="https://github.com/junksidetm/junksidetm.github.io">
+  <img src="https://raw.githubusercontent.com/junksidetm/assests/7cd03c3e4d09135b4c02926792d684ae80678741/Images/Codeium/Codeium%20Banner/SVG/Codeium%20-%20Banner%20Transparent%20White.svg" width="600"></a><br>
+<br><br>
+<sub>
+<p>This repository is a part of `"Codeium"`. A part of Darkside Studio.
+</p>
+</sub>
+</div>
+
+### 💌 Abstract
+A brand we made to list all our projects under one name. I am a solo developer who doesn't know how to code but knows the desgiuning part and learning right now with AI. I know what percepation you're thingking after reading this. But I strive to improve from every mistake I make. i even help to give community back something from my visions or something that can be improved for a better chance.
+
+
+---
+
+### 👨🏻‍💻 Platforms
 
 <p align="left">
   <a href="https://github.com/junksidetm"><img src="https://img.shields.io/badge/GitHub-Main-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Main" /></a>
   <a href="https://codeberg.org/mrdarksidetm"><img src="https://img.shields.io/badge/Codeberg-Mirror-2185d0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg Mirror" /></a>
   <a href="https://gitlab.com/mrdarksidetm"><img src="https://img.shields.io/badge/GitLab-Mirror-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Mirror" /></a>
-  <a href="https://junksidetm.github.io/"><img src="https://img.shields.io/badge/Portfolio-Atelier%20Hub-269bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="https://junksidetm.github.io/"><img src="https://img.shields.io/badge/Portfolio-Codeium-269bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" /></a>
 </p>
 
 ---
@@ -88,7 +104,6 @@
   - **Primary OS:** Windows 11 (Tuned & Debloated via WinForge)
   - **IDEs:** Android Studio Ladybug/Meerkat, VS Code, JetBrains Fleet
   - **Terminals:** PowerShell 7+ with custom Starship prompt & GitHub CLI (`gh`)
-  - **Cryptographic Security:** SSH Ed25519 commit signing key (`commit.gpgsign = true`)
 
 </details>
 
